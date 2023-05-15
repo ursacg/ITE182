@@ -1,3 +1,2 @@
-Hello world!
-ITE182
+Hello world
 This is a sentence.
